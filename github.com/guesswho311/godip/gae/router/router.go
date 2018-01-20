@@ -10,7 +10,7 @@ import (
 	"context"
 	"os"
 	"os/signal"
-	"github.com/guesswho311/mux"
+	"github.com/guesswho311/mux-f"
 	"github.com/guesswho311/godip/variants"
 
 	gae "github.com/guesswho311/godip/gae/common"
