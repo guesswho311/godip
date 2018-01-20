@@ -1,4 +1,4 @@
-package main
+package router
 
 import (
 	"encoding/json"
@@ -113,7 +113,7 @@ func main() {
 	log.Println(r)
 
 	srv := &http.Server{
-		Addr:         "0.0.0.0:8080",
+		Addr:         "localhost",
 		// Good practice to set timeouts to avoid Slowloris attacks.
 		WriteTimeout: time.Second * 15,
 		ReadTimeout:  time.Second * 15,
