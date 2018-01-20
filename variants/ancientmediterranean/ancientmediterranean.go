@@ -1,14 +1,14 @@
 package ancientmediterranean
 
 import (
-	"github.com/zond/godip/graph"
-	"github.com/zond/godip/state"
-	"github.com/zond/godip/variants/classical"
-	"github.com/zond/godip/variants/classical/orders"
-	"github.com/zond/godip/variants/common"
+	"github.com/guesswho311/godip/graph"
+	"github.com/guesswho311/godip/state"
+	"github.com/guesswho311/godip/variants/classical"
+	"github.com/guesswho311/godip/variants/classical/orders"
+	"github.com/guesswho311/godip/variants/common"
 
-	dip "github.com/zond/godip/common"
-	cla "github.com/zond/godip/variants/classical/common"
+	dip "github.com/guesswho311/godip/common"
+	cla "github.com/guesswho311/godip/variants/classical/common"
 )
 
 const (

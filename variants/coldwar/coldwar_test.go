@@ -3,13 +3,13 @@ package coldwar
 import (
 	"testing"
 
-	"github.com/zond/godip/state"
-	"github.com/zond/godip/variants/classical"
-	"github.com/zond/godip/variants/classical/orders"
+	"github.com/guesswho311/godip/state"
+	"github.com/guesswho311/godip/variants/classical"
+	"github.com/guesswho311/godip/variants/classical/orders"
 
-	dip "github.com/zond/godip/common"
-	cla "github.com/zond/godip/variants/classical/common"
-	tst "github.com/zond/godip/variants/testing"
+	dip "github.com/guesswho311/godip/common"
+	cla "github.com/guesswho311/godip/variants/classical/common"
+	tst "github.com/guesswho311/godip/variants/testing"
 )
 
 func init() {

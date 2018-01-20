@@ -1,9 +1,9 @@
 package start
 
 import (
-	c "github.com/zond/godip/variants/classical/common"
-	dip "github.com/zond/godip/common"
-	"github.com/zond/godip/graph"
+	c "github.com/guesswho311/godip/variants/classical/common"
+	dip "github.com/guesswho311/godip/common"
+	"github.com/guesswho311/godip/graph"
 )
 
 func SCs() (result map[dip.Province]dip.Nation) {

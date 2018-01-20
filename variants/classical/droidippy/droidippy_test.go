@@ -3,10 +3,10 @@ package droidippy
 import (
 	"testing"
 
-	"github.com/zond/godip/variants/classical"
+	"github.com/guesswho311/godip/variants/classical"
 
-	dip "github.com/zond/godip/common"
-	tst "github.com/zond/godip/variants/testing"
+	dip "github.com/guesswho311/godip/common"
+	tst "github.com/guesswho311/godip/variants/testing"
 )
 
 func init() {

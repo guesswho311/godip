@@ -1,9 +1,9 @@
 package common
 
 import (
-	"github.com/zond/godip/state"
+	"github.com/guesswho311/godip/state"
 
-	dip "github.com/zond/godip/common"
+	dip "github.com/guesswho311/godip/common"
 )
 
 // Variant defines a dippy variant supported by godip.

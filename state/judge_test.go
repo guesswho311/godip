@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zond/godip/common"
-	"github.com/zond/godip/graph"
+	"github.com/guesswho311/godip/common"
+	"github.com/guesswho311/godip/graph"
 )
 
 type testOrder int

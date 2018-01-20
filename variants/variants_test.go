@@ -12,9 +12,9 @@ import (
 	"strings"
 	"testing"
 
-	cla "github.com/zond/godip/variants/classical/common"
-	dip "github.com/zond/godip/common"
-	vrt "github.com/zond/godip/variants/common"
+	cla "github.com/guesswho311/godip/variants/classical/common"
+	dip "github.com/guesswho311/godip/common"
+	vrt "github.com/guesswho311/godip/variants/common"
 )
 
 var temp_directory = "test_output_maps"

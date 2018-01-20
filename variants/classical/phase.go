@@ -6,10 +6,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/zond/godip/variants/classical/orders"
+	"github.com/guesswho311/godip/variants/classical/orders"
 
-	dip "github.com/zond/godip/common"
-	cla "github.com/zond/godip/variants/classical/common"
+	dip "github.com/guesswho311/godip/common"
+	cla "github.com/guesswho311/godip/variants/classical/common"
 )
 
 func Phase(year int, season dip.Season, typ dip.PhaseType) dip.Phase {

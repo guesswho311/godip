@@ -5,7 +5,7 @@ import (
 	"sort"
 	"time"
 
-	. "github.com/zond/godip/common"
+	. "github.com/guesswho311/godip/common"
 )
 
 const (

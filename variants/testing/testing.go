@@ -6,11 +6,11 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/zond/godip/state"
-	"github.com/zond/godip/variants/classical/orders"
+	"github.com/guesswho311/godip/state"
+	"github.com/guesswho311/godip/variants/classical/orders"
 
-	dip "github.com/zond/godip/common"
-	cla "github.com/zond/godip/variants/classical/common"
+	dip "github.com/guesswho311/godip/common"
+	cla "github.com/guesswho311/godip/variants/classical/common"
 )
 
 func AssertOrderValidity(t *testing.T, validator dip.Validator, order dip.Order, nat dip.Nation, err error) {

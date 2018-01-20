@@ -1,8 +1,8 @@
 package start
 
 import (
-	. "github.com/zond/godip/variants/classical/common"
-	"github.com/zond/godip/common"
+	. "github.com/guesswho311/godip/variants/classical/common"
+	"github.com/guesswho311/godip/common"
 )
 
 func SupplyCenters() map[common.Province]common.Nation {

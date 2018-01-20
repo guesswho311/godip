@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	dip "github.com/zond/godip/common"
-	cla "github.com/zond/godip/variants/classical/common"
+	dip "github.com/guesswho311/godip/common"
+	cla "github.com/guesswho311/godip/variants/classical/common"
 )
 
 func init() {

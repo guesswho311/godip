@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/gorilla/mux"
-	"github.com/zond/godip/variants"
+	"github.com/guesswho311/mux"
+	"github.com/guesswho311/godip/variants"
 
 	gae "common"
 )

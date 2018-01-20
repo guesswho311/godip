@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/zond/godip/common"
+	"github.com/guesswho311/godip/common"
 
-	c "github.com/zond/godip/variants/classical/common"
+	c "github.com/guesswho311/godip/variants/classical/common"
 )
 
 func New() *Graph {

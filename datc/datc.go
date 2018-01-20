@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/zond/godip/common"
+	"github.com/guesswho311/godip/common"
 )
 
 var clearCommentReg = regexp.MustCompile("(?m)^\\s*([^#\n\t]+?)\\s*(#.*)?$")

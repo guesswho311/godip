@@ -3,13 +3,13 @@ package classical
 import (
 	"fmt"
 
-	"github.com/zond/godip/state"
-	"github.com/zond/godip/variants/common"
-	"github.com/zond/godip/variants/classical/orders"
-	"github.com/zond/godip/variants/classical/start"
+	"github.com/guesswho311/godip/state"
+	"github.com/guesswho311/godip/variants/common"
+	"github.com/guesswho311/godip/variants/classical/orders"
+	"github.com/guesswho311/godip/variants/classical/start"
 
-	cla "github.com/zond/godip/variants/classical/common"
-	dip "github.com/zond/godip/common"
+	cla "github.com/guesswho311/godip/variants/classical/common"
+	dip "github.com/guesswho311/godip/common"
 )
 
 var ClassicalVariant = common.Variant{

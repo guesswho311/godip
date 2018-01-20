@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/zond/godip/common"
+	"github.com/guesswho311/godip/common"
 )
 
 func New(graph common.Graph, phase common.Phase, backupRule common.BackupRule) *State {
